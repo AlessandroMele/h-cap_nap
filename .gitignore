@@ -1,0 +1,9 @@
+.idea
+_materials
+
+dataset/*.g
+dataset/*.json
+
+models/*/
+optuna/*
+venv
