@@ -1,4 +1,4 @@
-# HALO: heterogeneous graph-based activity prediction with context-aware learning
+# H-CAP: context-aware activity prediction using heterogeneous graphs
 
 ## Prerequisite
 - Install Python 3.10
